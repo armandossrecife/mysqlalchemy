@@ -1,5 +1,5 @@
 USERNAME='armando'
-PASSWORD='skyinfo'
+PASSWORD='armando'
 HOST='localhost'
 PORT='3306'
 DATABASE_NAME='mydbteste'
