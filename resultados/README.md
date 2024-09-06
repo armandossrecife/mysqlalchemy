@@ -1,0 +1,1 @@
+# Resultado das suites de testes
